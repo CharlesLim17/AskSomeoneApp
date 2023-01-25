@@ -18,7 +18,7 @@
         android:fontFamily="@font/roboto_black"
         android:gravity="center"
         android:lineSpacingExtra="20dp"
-        android:text="By any chance, do you go by the name \nTherese Angel Saavedra?"
+        android:text="By any chance, do you go by the name \nName here"
         android:textColor="@color/white"
         android:textSize="28sp"
         app:layout_constraintBottom_toBottomOf="parent"
